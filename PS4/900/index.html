@@ -74,7 +74,7 @@ function DisplayCacheProgress(){setTimeout(function(){window.msgs.innerHTML="Cac
 <br>
 <h1 style="font-size:20px;text-align:center;">Payloads</h1>
 <button class="btn" onclick=load_todex()> ToDex </button>
-<button class="btn" onclick=load_dumper()> App-Dumper </button>
+<button class="btn" onclick=load_dumper()> Game Dumper </button>
 <button class="btn" onclick=load_ftp()> FTP </button>
 <button class="btn" onclick=load_app2usb()> App2USB </button>
 <br>
@@ -155,8 +155,8 @@ setTimeout(poc,1500);
 
 function load_dumper(){
 var script = document.createElement('script');script.src = "dumper.js";document.getElementsByTagName('head')[0].appendChild(script);
-msgs.innerHTML="Loading Jailbreak + App-Dumper... Please Wait !!!"
-LoadedMSG="App-Dumper Loaded...";
+msgs.innerHTML="Loading Jailbreak + Game Dumper... Please Wait !!!"
+LoadedMSG="Game Dumper Loaded...";
 run_jb = "payload";
 setTimeout(poc,1500);
 }
