@@ -21,13 +21,6 @@ Esta versión de HEN és compatible con todoas las consolas PS3 (Todos los model
 ### PS3 HEN ![Version](https://img.shields.io/badge/Version-4.89-brightgreen.svg)
 - Hen Menu en Español http://modgames44.github.io/489/menu
 
-### Bluethoot / USB Game Audio (PS3 HEN) ![Version](https://img.shields.io/badge/Version-4.88-brightgreen.svg)
-
-Esto habilita que puedas emparejar / conectar dispositivos por Bluetooth y USB como audifonos y Micrófonos
-
-- http://modgames44.github.io/BTGA-303-488/
-
-
 ---
 
 ### Credits:
