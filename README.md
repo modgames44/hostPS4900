@@ -39,6 +39,7 @@ Esta versión de HEN és compatible con todoas las consolas PS3 (Todos los model
 - **#Litlebalup** (HFW 4.89)
 - **#Luan Teles** (Unofficial HEN packages)
 - **#PSX-PLACE** (long contribution in PS3 Scene)
-- **#y a toda la comunidad de PS3 y PS4 que hace todo esto posible mil Gracias**
 - **#nikolaevich23 (DEV PS3HEN RUSO)
+- **#y a toda la comunidad de PS3 y PS4 que hace todo esto posible mil Gracias**
+
 ---
