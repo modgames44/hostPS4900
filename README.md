@@ -19,7 +19,7 @@ Lo unico que hay que hacer es ir a esta dirección desde el navegador de interne
 Esta versión de HEN és compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en el firmwares híbrido HFW 4.89
 
 ### PS3 HEN ![Version](https://img.shields.io/badge/Version-4.89-brightgreen.svg)
-- Hen Menu en Español http://modgames44.github.io/489/menu
+- Hen Menu en Español http://modgames44.github.io/PS3HEN
 
 ---
 
