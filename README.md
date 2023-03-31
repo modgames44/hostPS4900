@@ -6,7 +6,7 @@
 Es un Host alternativo para poder, probar y ejecutar exploits en el navegador de internet de PS3 Y PS4 y poder liberar, hackear, desbloquear la consola
 
 
-### PS4 Jailbreak + Goldhen v2.2.4 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
+### PS4 Jailbreak + Goldhen v2.3 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
 
 Lo unico que hay que hacer es ir a esta dirección desde el navegador de internet de la cosnola.
 
